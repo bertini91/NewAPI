@@ -16,6 +16,9 @@ npm install
 
 ```
 
+### Before starting the project 
+Located at the root of the project, you must create a .env file and declare a variable named API_KEY with its code provided by the API when creating a user. 
+
 ### Located at the root of the project you must run the following command:
 
 #### `npm start`
